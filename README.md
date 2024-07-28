@@ -25,7 +25,7 @@ Developer. Instructor
 
 * 🌍  I'm based in Lagos, Nigeria
 <!--* 🚀  I'm currently working on [Yourstudypath](http://yourstudypath.com), [Eapay](https://www.tryeapay.com), [Transtura](https://www.transtura.com)-->
-* 🧠  I'm learning C# and how the Web3 works
+* 🧠  I'm learning Java and how the Web3 works
 * 🤝  I'm open to collaborating on any open source projects that can help me push myself, may in Python, Javascript, C# or Web3
 
 ### Skills
