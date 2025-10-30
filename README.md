@@ -20,16 +20,13 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is owujib
 ==============================================================================================================================
 
-Developer. Instructor
+Developer
 ---------------------
 
 * 🌍  I'm based in Lagos, Nigeria
-<!--* 🚀  I'm currently working on [Yourstudypath](http://yourstudypath.com), [Eapay](https://www.tryeapay.com), [Transtura](https://www.transtura.com)-->
-<!--* 🧠  I'm learning Java and how the Web3 works-->
 * 🤝  I'm open to collaborating on any open source projects that can help me push myself, may in Python, Javascript, C# or Web3
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
