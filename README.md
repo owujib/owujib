@@ -24,7 +24,7 @@ Developer
 ---------------------
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🤝  I'm open to collaborating on any open source projects that can help me push myself, may in Python, Javascript, C# or Web3
+* 🤝  I'm open to collaborating on any open source projects that can help me push myself, may in Python, Javascript, C#.
 
 ### Skills
 
