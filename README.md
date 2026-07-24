@@ -15,16 +15,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## Connect
+- 📧 owujibfavour@gmail.com
+- 🔗 linkedin.com/in/favour-enang-720152213
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is owujib
 ==============================================================================================================================
 
-Developer
+Software Developer
 ---------------------
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🤝  I'm open to collaborating on any open source projects that can help me push myself, may in Python, Javascript, C#.
+
+## Expertise
+- Backend Architecture: NestJS, TypeScript, Node.js, Laravel
+- Microservices: gRPC, RabbitMQ, Event-Driven Systems
+- Databases: PostgreSQL, MySQL, MongoDB, Oracle
+- Cloud: AWS, Docker, CI/CD
+- Fintech: Payment Gateways, Settlement Systems, Reconciliation
+- Team Leadership and great team player
 
 ### Skills
 
